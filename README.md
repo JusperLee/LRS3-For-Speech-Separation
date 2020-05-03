@@ -6,6 +6,8 @@ We will release the benchmark of Speech-Separation on the LRS3 dataset as soon a
 
 Our script repository is to make the multi-modal speech separation task have a unified standard in data set generation. So that we can follow up on multi-modal speech separation tasks.
 
+We hope that the LRS3 data set will have a unified generation standard for pure voice separation tasks like the WSJ0 data set.
+
 ## Requirement
 
 - **ffmpeg 4.2.1**
