@@ -79,3 +79,18 @@ output_dir8k=''; % 8k path
 
 
 ## Then, you can start to training data.
+
+## Citing Dataset Processing Script
+
+If you find this repository useful, please cite it in your publications.
+
+```latex
+@misc{LRS3SS,
+  author = {Kai Li},
+  title = {LRS3-For-Speech-Separation},
+  year = {2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/JusperLee/LRS3-For-Speech-Separation}},
+}
+```
