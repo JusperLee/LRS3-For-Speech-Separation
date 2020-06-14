@@ -8,7 +8,7 @@ Our script repository is to make the multi-modal speech separation task have a u
 
 We hope that the LRS3 data set will have a unified generation standard for pure voice separation tasks like the WSJ0 data set.
 
-:ballot_box_with_check:      Our baseline model is coming soon!!!!!
+:ballot_box_with_check: &nbsp;&nbsp;Our baseline model is coming soon!!!!!
 ## Requirement
 
 - **ffmpeg 4.2.1**
