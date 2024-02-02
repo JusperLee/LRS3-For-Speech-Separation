@@ -90,12 +90,10 @@ output_dir8k=''; % 8k path
 If you find this repository useful, please cite it in your publications.
 
 ```latex
-@misc{LRS3SS,
-  author = {Kai Li},
-  title = {LRS3-For-Speech-Separation},
-  year = {2020},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/JusperLee/LRS3-For-Speech-Separation}},
+@article{li2022audio,
+  title={An Audio-Visual Speech Separation Model Inspired by Cortico-Thalamo-Cortical Circuits},
+  author={Li, Kai and Xie, Fenghua and Chen, Hang and Yuan, Kexin and Hu, Xiaolin},
+  journal={arXiv preprint arXiv:2212.10744},
+  year={2022}
 }
 ```
